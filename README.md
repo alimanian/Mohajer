@@ -1,4 +1,7 @@
-# 🎓 پروژه‌های دوره کاردانی نرم‌افزار دانشکده مهاجر
+# پروژه‌های دوره کاردانی نرم‌افزار دانشکده مهاجر | Software Associate Degree Projects - Mohajer University
+
+<details open>
+<summary>🇮🇷 فارسی</summary>
 
 ## 📋 فهرست مطالب
 - [🌟 درباره این مخزن](#-درباره-این-مخزن)
@@ -26,11 +29,9 @@
 1. 🔍 آشنایی با پروتکل FTP
 2. 📊 جدول کدهای وضعیت FTP
 3. 🔄 نحوه عملکرد پروتکل FTP
-4. 🔌 Active Mode
-5. 🔓 Passive Mode
-6. 🛡️ ملاحظات امنیتی
-7. 💡 نکات تکمیلی درباره FTP
-8. 📚 منابع
+4. 🛡️ ملاحظات امنیتی
+5. 💡 نکات تکمیلی درباره FTP
+6. 📚 منابع
 
 ### 🗄️ آزمایشگاه پایگاه داده
 این بخش شامل پیاده‌سازی یک پایگاه داده وبلاگ در SQL Server همراه با توضیحات کامل و کاربردی است.
@@ -76,11 +77,10 @@
 ## 📜 مجوز
 این پروژه تحت مجوز MIT منتشر شده است. برای اطلاعات بیشتر، لطفاً فایل [LICENSE](LICENSE) را مشاهده کنید.
 
----
+</details>
 
-<div dir="ltr">
-
-# 🎓 Software Associate Degree Projects - Mohajer University
+<details>
+<summary>🇬🇧 English</summary>
 
 ## 📋 Table of Contents
 - [🌟 About This Repository](#-about-this-repository)
@@ -108,8 +108,6 @@ This section includes comprehensive and practical research on the File Transfer 
 1. 🔍 Introduction to FTP Protocol
 2. 📊 FTP Status Code Table
 3. 🔄 FTP Protocol Operation
-   - 🔌 Active Mode
-   - 🔓 Passive Mode
 4. 🛡️ Security Considerations
 5. 💡 Additional Notes on FTP
 6. 📚 References
@@ -158,4 +156,4 @@ For more information or to provide feedback, please contact us via email at alim
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-</div>
+</details>
