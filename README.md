@@ -72,7 +72,7 @@
 4. 💾 برای استفاده از فایل بک‌آپ دیتابیس (.bak)، آن را در SQL Server بازیابی کنید.
 
 ## 📞 تماس با ما
-برای کسب اطلاعات بیشتر یا ارائه بازخورد، لطفاً از طریق ایمیل alimanian21@gmail.com با ما در ارتباط باشید. ما مشتاقانه منتظر شنیدن نظرات شما هستیم!
+برای کسب اطلاعات بیشتر یا ارائه بازخورد، لطفاً از طریق ایمیل alimanian79@gmail.com با ما در ارتباط باشید. ما مشتاقانه منتظر شنیدن نظرات شما هستیم!
 
 ## 📜 مجوز
 این پروژه تحت مجوز MIT منتشر شده است. برای اطلاعات بیشتر، لطفاً فایل [LICENSE](LICENSE) را مشاهده کنید.
@@ -151,7 +151,7 @@ To benefit from the content of this repository:
 4. 💾 To use the database backup file (.bak), restore it in SQL Server.
 
 ## 📞 Contact Us
-For more information or to provide feedback, please contact us via email at alimanian21@gmail.com. We're eager to hear your thoughts!
+For more information or to provide feedback, please contact us via email at alimanian79@gmail.com. We're eager to hear your thoughts!
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
